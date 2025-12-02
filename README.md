@@ -49,19 +49,8 @@ The changing atmosphere also marks your progress as difficulty increases.
 
 ---
 
-## 🏫 Developed by
-
-This game was created by students of the **Information Systems (Sistem Informasi)** program at **Universitas Indonesia**:
-
-- **Arabela** — NIM 1230  
-- **Aliana** — NIM 1901  
-- *(Add more members here if needed)*
-
-Built as a creative project showcasing teamwork, problem-solving, and game development fundamentals.
-
----
-
 ## 📷 Screenshots
-
-*(Add your game images here)*
-
+<img width="382" height="212" alt="Mini Copter 1" src="https://github.com/user-attachments/assets/0d90669b-0da3-4989-8250-57b25cc11c35" />
+<img width="383" height="212" alt="Mini Copter 2" src="https://github.com/user-attachments/assets/9adc78f0-aad8-4ce5-bb55-3f9fe6cb1aa7" />
+<img width="386" height="215" alt="Mini Copter 3" src="https://github.com/user-attachments/assets/948feaf8-888a-4f84-8a88-6aea032ae74f" />
+<img width="386" height="214" alt="Mini Copter 4" src="https://github.com/user-attachments/assets/a3019cdb-c6a7-4cd7-92dc-88a30bb41d18" />
