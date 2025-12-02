@@ -51,6 +51,7 @@ The changing atmosphere also marks your progress as difficulty increases.
 
 ## 📷 Screenshots
 <img width="385" height="215" alt="Cover Mini Copter" src="https://github.com/user-attachments/assets/4f4d5cc4-f124-4737-b1bc-966cc916e675" />
+
 <img width="382" height="212" alt="Mini Copter 1" src="https://github.com/user-attachments/assets/0d90669b-0da3-4989-8250-57b25cc11c35" />
 <img width="383" height="212" alt="Mini Copter 2" src="https://github.com/user-attachments/assets/9adc78f0-aad8-4ce5-bb55-3f9fe6cb1aa7" />
 <img width="386" height="215" alt="Mini Copter 3" src="https://github.com/user-attachments/assets/948feaf8-888a-4f84-8a88-6aea032ae74f" />
